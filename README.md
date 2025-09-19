@@ -16,6 +16,10 @@ Structure
   - `04-archives/` — Inactive or completed items kept for history.
   
 - `docs/` — Company-style handbook: canonical, maintained, and stable.
+- `runbooks/` — Step-by-step procedures assistants can execute reliably.
+- `apps/` — Deployable services and UIs (one folder per app).
+- `packages/` — Shared libraries/modules used by apps.
+- `infra/` — Infrastructure-as-code, pipelines, and env overlays.
 
 Guidelines
 - Keep files in plain markdown. No frontmatter required.
