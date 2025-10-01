@@ -21,7 +21,8 @@ Expect sessions to center on one of these themes:
   docs, memos, runbooks).
 - Reach into `memos/` for project-specific history or evolving context.
 - Lean on `runbooks/` when you need step-by-step execution guidance; write new
-  ones when you discover repeatable procedures.
+  ones when you discover repeatable procedures. Start with
+  `runbooks/source-control.md` for the branch-and-PR workflow.
 
 ## Working style inside the repo
 

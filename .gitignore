@@ -1,0 +1,47 @@
+# macOS / OS
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+*.swp
+*.swo
+*.tmp
+*.orig
+.idea/
+.vscode/
+*.code-workspace
+
+# Environment + direnv
+.direnv/
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*.local
+.env.secrets
+.env.secrets.local
+
+# Node / JS runtimes
+node_modules/
+dist/
+build/
+coverage/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+*.tsbuildinfo
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Nix build outputs
+result
+result-*
+
+# Misc caches
+.cache/
+.pytest_cache/
+__pycache__/
+
